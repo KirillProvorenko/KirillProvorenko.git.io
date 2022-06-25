@@ -40,7 +40,7 @@ form {padding:0 0 6px 8px}
 .styled {border:1px solid #DDD;padding:4px}
 .button {background:url(img/search.gif) no-repeat left bottom;border:none;height:27px;width:27px}
 /* footer */
-.footer {background:#FFF;border:1px solid #EEE;color:#666;font-size:1.1em;margin:0 auto;text-align:center;width:720px}
+.footer {background:#FFF;border:1px solid #EEE;color:#666;font-size:1.1em;margin:0 auto;text-align:center;width:767px}
 .footer a {color:#36C;text-decoration:none}
 .footer a:hover {color:#06F;text-decoration:underline}
 .footer .left, .footer .right {padding:6px 12px}
