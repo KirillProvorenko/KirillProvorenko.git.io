@@ -28,8 +28,8 @@ h1,h2,h3 {color:#367EA6;padding-top:6px}
 .sidenav h1 {color:#666;font-size:1.2em;height:20px;margin-top:1.2em}
 .sidenav ul {border-top:1px solid #FAFAFA;background:#EEE url(img/bgul.gif) repeat-x;margin:0;padding:0}
 .sidenav li {border:1px solid #FAFAFA;border-top:none;list-style:none;margin:0}
-.sidenav li a {color:#777;display:block;font-size:0.9em;padding:3px 6px 3px 14px;text-decoration:none; transition: all .3s ease;}
-.sidenav li a:hover {color:white; background-color: #444;}
+.sidenav li a {color:black;display:block;font-size:0.9em;padding:3px 6px 3px 14px;text-decoration:none; transition: all .3s ease;}
+.sidenav li a:hover {color:#FFF; background-color: #444;}
 /* content */
 .content {float:right;width:520px}
 .content .item {padding:6px 12px;border:1px solid #EEE;background:#FFF;margin-bottom:8px}
